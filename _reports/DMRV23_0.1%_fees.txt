@@ -1,0 +1,17 @@
+ENJ
+AXS
+PYR
+BNB
+DOGE
+ETH
+SOL
+AVAX
+MANA
+SAND
+XLM
+ADA
+
+TP is set at 3% but 0.1% fees applied
+fees will be substracted from Close price, so PowerBI will show max TP at 2.9%. 
+Keep in mind the TP, it's actually closing at 2.9%, so 0.1% lower than 3%.
+This dramatically affects trades with leverage.
